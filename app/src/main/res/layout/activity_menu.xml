@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tamadc.marketplace.Menu">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:text="Menu Creative"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="17dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <ImageButton
+        android:id="@+id/menu1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/textView13"
+        android:layout_alignStart="@+id/textView13"
+        android:layout_below="@+id/textView13"
+        android:layout_marginLeft="69dp"
+        android:layout_marginStart="69dp"
+        android:layout_marginTop="14dp"
+        android:onClick="Home"
+        android:src="@drawable/home"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <ImageButton
+        android:id="@+id/menu2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignTop="@+id/menu1"
+        android:layout_marginLeft="18dp"
+        android:layout_marginStart="18dp"
+        android:layout_toEndOf="@+id/menu1"
+        android:layout_toRightOf="@+id/menu1"
+        app:srcCompat="@mipmap/ic_launcher"
+        android:src="@drawable/menu"
+        android:onClick="menu"
+        tools:layout_editor_absoluteX="204dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <ImageButton
+        android:id="@+id/menu3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/menu2"
+        android:layout_alignStart="@+id/menu2"
+        android:layout_alignTop="@+id/imageButton5"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="88dp"
+        android:onClick="telp"
+
+        android:src="@drawable/telp"
+        tools:layout_editor_absoluteY="221dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/textView15"
+        android:layout_alignStart="@+id/textView15"
+        android:layout_below="@+id/textView15"
+        android:onClick="Info"
+        android:src="@drawable/info"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="204dp"
+        tools:layout_editor_absoluteY="221dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/menu1"
+        android:layout_alignRight="@+id/menu1"
+        android:layout_below="@+id/menu1"
+        android:text="Home"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/menu2"
+        android:layout_alignStart="@+id/menu2"
+        android:layout_below="@+id/menu2"
+        android:text="Menu"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButton5"
+        android:layout_alignStart="@+id/imageButton5"
+        android:layout_below="@+id/imageButton5"
+        android:text="Contact"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/menu3"
+        android:layout_alignStart="@+id/menu3"
+        android:layout_below="@+id/menu3"
+        android:text="Info"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+</RelativeLayout>

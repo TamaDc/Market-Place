@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\3c25e48b4a4b4b905df3b27fbdbaa4a43e1ff16b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f61ecf3294fd22a3008953b6f04844b727f6f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\73f0960d895a94df4de75b4154369c2831ab9677\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ef4a85dbd9971bf3b761ac9a6fbd9df79c1bf1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d37882a43ba3296118bf81435ba4ba6448525c66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\063f68e269740b7a16588eb93d97548d0215572a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60b8537b489e60285599560f9572680df66b9353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketPlace-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f3b3025a110e8318f72df6f6b897d0955327889e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\6c7b6edb76dc1076d4105273a927daf96f00a4c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18d934672fd40e44b671b50b0fdf198c5229be47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\e627e818b1f2d42a327d594484268812a782d881\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72993c1612f90601af8dc871cb9ebc8dfc777652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\8aa9cd3537c8b481d28d7f99363eb871b1d76463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bb6e1ac2f193b58a6c0780b4aee134c81b549db5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\64ea6bbbe38966f6041f1e0fb7862fa4aac3255c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aeacaa7208c744616b86ba8aaa1539c79946cfec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\604a47358c28c58fb89a230c1f9eeec9f1ce5379\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f7b9a97b4ea498563ee6ced93a8ffa9ba2b1c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MarketPlace-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27e8876fffd353d8841e10ec7981dbf370434744">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2b2b40f6b27a5db9eafe3e358aef6eb42cbd9c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\c175f586862c4c01f3b51643cac797b5d34628b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_630700b6e61164a29dc82810e43b09daed894caa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_8a7d1f8cdd367fa1574088c778a11246acdb41cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Windows\.android\build-cache\2b50257ee41a1374a2d328b4ed7a41d323e17796\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\MarketPlace-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3e17f93caf2ce9835e2e6a7bf5e95272ce51f69\classes.dex" />
+    </item>
+
+</items>
